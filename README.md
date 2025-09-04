@@ -27,3 +27,4 @@ A small side project – a landing page section designed to showcase visual effe
 1. Clone the repository:
    ```bash
    git clone https://github.com/ArtKruzhkov/lightsport-landing.git
+2. Open `index.html` in browser.
