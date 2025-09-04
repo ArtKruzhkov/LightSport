@@ -21,10 +21,6 @@ A small side project – a landing page section designed to showcase visual effe
 - **Lenis.js**
 - Responsive layout (mobile-first approach)
 
-## Preview
-
-![Preview](./preview.jpg)  
-*Animated section with interactive scroll and gradients*
 
 ## How to Run
 
